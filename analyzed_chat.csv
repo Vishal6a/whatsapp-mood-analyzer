@@ -1,0 +1,16 @@
+Date,Time,Sender,Message,Sentiment
+2025-06-05,09:00,Boss,Good morning âï¸ Have you completed the draft?,Positive
+2025-06-05,09:02,Client,Good morning sir ð Iâm working on it. Will share it by 11.,Positive
+2025-06-05,11:15,Client,"Sir, Iâve mailed you the draft ð§ Please check.",Neutral
+2025-06-05,11:30,Boss,Got it ð Iâll review and get back in an hour.,Neutral
+2025-06-05,01:00,Boss,Overall good ð But please revise the conclusion and add more data ð,Positive
+2025-06-05,01:10,Client,Sure sir â Will do it by EOD.,Positive
+2025-06-05,06:45,Client,"Sir, updated the draft with your suggestions ð Please check.",Neutral
+2025-06-05,07:15,Boss,Much better now ð Good job!,Positive
+2025-06-05,07:16,Client,"Thank you so much, sir ð",Neutral
+2025-06-06,08:30,Boss,We have a client call at 11 ð Be prepared with the summary.,Neutral
+2025-06-06,08:35,Client,"Noted, sir âï¸ Iâll be ready.",Neutral
+2025-06-06,11:50,Boss,You presented well today ð Keep it up!,Neutral
+2025-06-06,11:55,Client,Means a lot sir ð Thanks again!,Positive
+2025-06-06,09:30,Boss,Take some rest too ð Youâve worked hard this week.,Negative
+2025-06-06,09:31,Client,Haha will do sir ð Good night!,Positive
